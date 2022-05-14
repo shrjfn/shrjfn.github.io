@@ -1,5 +1,5 @@
 /**
- * demo1.js
+ * demo3.js
  * http://www.codrops.com
  *
  * Licensed under the MIT license.
