@@ -1,4 +1,3 @@
-
 {
     // From http://www.quirksmode.org/js/events_properties.html#position
     // Get the mouse position.
