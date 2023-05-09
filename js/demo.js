@@ -1,13 +1,4 @@
-/**
- * demo.js
- * http://www.codrops.com
- *
- * Licensed under the MIT license.
- * http://www.opensource.org/licenses/mit-license.php
- * 
- * Copyright 2018, Codrops
- * http://www.codrops.com
- */
+
 {
     // From http://www.quirksmode.org/js/events_properties.html#position
     // Get the mouse position.
